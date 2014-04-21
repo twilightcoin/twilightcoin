@@ -1,0 +1,9 @@
+Building TwilightCoin
+
+See doc/readme-qt.rst for instructions on building TwilightCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TwilightCoin.
+
+See doc/build-*.txt for instructions on building twilightcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TwilightCoin.
